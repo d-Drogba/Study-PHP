@@ -19,15 +19,7 @@ require_once('view/top.php');
             <input type ="submit">
         </p>
     </form>
-    
-    <h2>
-        <?php
-        print_title();
-        ?>
-    </h2>
-        <?php
-        print_description();
-        ?>
+
 <?php
 require('view/bottom.php');
 ?>
